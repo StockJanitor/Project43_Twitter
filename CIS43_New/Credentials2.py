@@ -1,4 +1,0 @@
-ACCESS_TOKEN = 'xx-xx'
-ACCESS_SECRET = 'xx'
-CONSUMER_KEY = 'xx'
-CONSUMER_SECRET = 'xx'
