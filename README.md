@@ -1,4 +1,4 @@
-### Tweepy Data Mining, NLP, and Deep Learning
+### Tweepy, NLP, and Deep Learning
 Purpose
 - Learn Tweepy API (data mining), 
 - Apply Natural Language Processing and text visualization
