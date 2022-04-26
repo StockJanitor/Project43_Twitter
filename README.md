@@ -1,4 +1,5 @@
 ### Tweepy, NLP, and Deep Learning
+Files: 1_ProjectTwitter
 Purpose
 - Learn Tweepy API (data mining), 
 - Apply Natural Language Processing and text visualization
