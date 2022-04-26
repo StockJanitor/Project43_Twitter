@@ -1,5 +1,5 @@
 ### Tweepy, NLP, and Deep Learning
-Files: 1_Project43_Twitter, 2_rnnKerasLSTM, 3_reference
+Files: 1_Project43_Twitter, 2_rnnKerasLSTM, 3_reference<br>
 Purpose
 - Learn Tweepy API (data mining), 
 - Apply Natural Language Processing and text visualization
