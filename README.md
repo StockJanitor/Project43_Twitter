@@ -2,10 +2,10 @@
 
 Files: 1_Project43_Twitter, 2_rnnKerasLSTM, 3_reference <br>
 
-Purpose <br>
-- Learn Tweepy API (data mining)
+Overview <br>
+- Tweepy API (data mining)
 - Natural Language Processing (NLP), EDA
-- Build Neural Network Models, save/load token and models
+- Build Neural Network Models
 
 Conclusion <br>
 - From the tweets mined, android market share is nearly equal to apple products. Google has done well in increasing marketshare. 
